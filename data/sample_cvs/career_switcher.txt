@@ -1,0 +1,29 @@
+John Doe
+Software Developer | Career Switcher from Finance
+
+SUMMARY
+Former financial analyst with 6 years of experience transitioning into software engineering.
+Self-taught Python developer with 3 years of hands-on project experience.
+
+SKILLS
+Python, SQL, Machine Learning, Data Analysis, Excel, Financial Modeling
+Built ETL pipelines, REST APIs, and data dashboards
+
+EXPERIENCE
+Freelance Data Developer | 2021 - Present
+- Built automated ETL pipelines using Python and Airflow
+- Developed ML models for credit risk prediction
+- Led cross-functional teams of 3 engineers and 2 analysts
+- Mentored 2 junior developers on Python best practices
+
+Financial Analyst | ABC Bank | 2015 - 2021
+- Managed portfolios worth $50M using statistical modeling
+- Built predictive models in Excel and later Python
+- Presented insights to C-suite executives
+
+EDUCATION
+Bachelor of Commerce | Delhi University | 2015
+
+PROJECTS
+- SkillMatch: NLP tool to match resumes to job descriptions using Python and spaCy
+- CreditRisk ML: Supervised learning model with 89% accuracy using scikit-learn

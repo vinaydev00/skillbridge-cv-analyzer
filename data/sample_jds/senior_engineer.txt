@@ -1,0 +1,25 @@
+Senior Data Engineer - TechCorp
+
+ABOUT THE ROLE
+We are looking for a Senior Data Engineer to join our growing data platform team.
+
+RESPONSIBILITIES
+- Build and maintain scalable ETL pipelines
+- Work with cross-functional teams to deliver data solutions
+- Mentor junior engineers
+- Present findings to stakeholders
+
+REQUIREMENTS
+Python
+SQL
+ETL pipelines
+Machine Learning
+Data Engineering
+Leadership
+Communication
+Agile
+
+NICE TO HAVE
+NLP experience
+Cloud platforms AWS or GCP
+Docker and Kubernetes
